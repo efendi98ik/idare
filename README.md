@@ -1,0 +1,2 @@
+# idare
+Merkezi idare birimi 
